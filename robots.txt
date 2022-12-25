@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://senin-syair-dayak.github.io/ssd-2/sitemap.xml
